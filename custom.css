@@ -1,0 +1,15 @@
+.inputPart{
+	background-image: linear-gradient(darkblue,gray,lightblue);
+	border-left : 1px solid black;
+	border-right: 1px solid black;
+}
+
+.sect2{
+	height:100%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 40%;
+}
+.sect1{
+	padding-top: 3%;
+}
